@@ -1,0 +1,11 @@
+{"button":[
+
+	{"type":"click","name":"家庭成员认证","key":"family"},
+	{"name":"常用功能","sub_button":[
+		{"type":"click","name":"开门","key":"doorOpen"},
+		{"type":"click","name":"开灯","key":"lightOn"},
+		{"type":"click","name":"关灯","key":"lightOff"},
+		{"type":"click","name":"环境参数","key":"surround"},
+		{"type":"click","name":"帮助","key":"help"}
+	]}
+]}
